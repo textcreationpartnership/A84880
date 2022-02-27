@@ -1,0 +1,384 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The King of Denmark his declaration concerning the English merchants ships lying in Copenhagen. Translated out of the Danish speech into English by Edvvard Smith, May 17. 1653.</title>
+            <author>Denmark. Sovereign (1648-1670 : Frederick III)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84880</idno>
+            <idno type="STC">Wing F2100</idno>
+            <idno type="STC">Thomason E693_14</idno>
+            <idno type="STC">ESTC R202182</idno>
+            <idno type="EEBO-CITATION">99862574</idno>
+            <idno type="PROQUEST">99862574</idno>
+            <idno type="VID">114737</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84880)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114737)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 107:E693[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The King of Denmark his declaration concerning the English merchants ships lying in Copenhagen. Translated out of the Danish speech into English by Edvvard Smith, May 17. 1653.</title>
+                  <author>Denmark. Sovereign (1648-1670 : Frederick III)</author>
+                  <author>Frederick III, King of Denmark and Norway, 1609-1670.</author>
+                  <author>Smith, Edward, fl. 1653.</author>
+               </titleStmt>
+               <extent>22, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Copenhagen, anno 1653. And re-printed at London for Henry Cripps, and Lodowick Lloyd, and are to be sold at their shop in Popes-head Alley,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With numerous other documents relating to the case.</note>
+                  <note>"Postscript to the reader", [1] p. at end.</note>
+                  <note>Original Danish title, if any, not traced.</note>
+                  <note>Annotation on Thomason copy: "May. 23.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign relations --  Denmark --  Early works to 1800.</term>
+               <term>Denmark --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114737:1" rendition="simple:additions"/>
+            <p> THE King of Denmark HIS DECLARATION Concerning The Engliſh Merchants Ships Lying In <hi>COPENHAGEN.</hi>
+            </p>
+            <p>Tranſlated out of the <hi>Daniſh</hi> Speech into <hi>Engliſh</hi> by EDVVARD SMITH, <hi>May</hi> 17. 1653.</p>
+            <p>Printed at COPENHAGEN, Anno 1653. AND Re-printed at <hi>London</hi> for <hi>Henry Cripps,</hi> and <hi>Lodowick Lloyd,</hi> and are to be ſold at their Shop in <hi>Popes-head</hi> Alley. 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114737:2"/>
+            <pb n="3" facs="tcp:114737:2"/>
+            <head>THE King of Denmark HIS DECLARATION.</head>
+            <p>AFter the difference between the two mighty Powers in <hi>England</hi> and the United Provinces was broke out to an open War, and that all common Liberty and Free<g ref="char:EOLhyphen"/>dom of Traffique upon the Sea was thereby hindered and taken away, ſo that none except by force of weapon could be allowed that freedom which unto Commerce is neceſſary; then did the States General appoint certain Convoys which ſhould guard their Merchant Ships hither into the Sound, and alſo back again; whereby here did alway happen to be a quantity of States Ships of War lying, which were commanded to continue ſome time about the Lap, and ſome time upon this ſide <hi>Crownborg;</hi> ſo that the Engliſh Merchants Ships comming out of the Eaſt Sea, durſt not adventure themſelves into the North Sea, but according to their own Superiors Command ſought leave for ſecurity of their Ships, that they might bring them into the Haven within the Blockhouſe here, as their ſupplication the 10. of <hi>Auguſt</hi> delivered, letter <hi>A.</hi> doth make appear, which was granted them, for as much as they in a high meaſure did give thanks therefore, as their under written writing, letter <hi>B,</hi> declareth. Thereafter came into the Sound an Eng<g ref="char:EOLhyphen"/>liſh Admiral with 18 Ships of War, which by an Officer upon the 23. of <hi>Sept.</hi> at four a clock in the afternoon did ſend a Letter to be
+<pb n="4" facs="tcp:114737:3"/> delivered from himſelf unto his Majeſty: the Contents whereof are recorded, as letter <hi>C.</hi> And though his Majeſty at that time was not in the Town, but at <hi>Ibſtrupe</hi> a mile therefrom, yet the ſaid Of<g ref="char:EOLhyphen"/>ficer did intimate that he had order to tarry no longer for an an<g ref="char:EOLhyphen"/>ſwer but until noon the next day, where accordingly when the next day at noon he could not have his will, and ſo haſty an anſwer as he deſired, he would no longer be delayed, but went hence: In the mean time, for as much as it was altogether unheard and unex<g ref="char:EOLhyphen"/>pected that ſuch a Fleet ſhould dare without notice or leave given, ſuffer themſelves to be found upon his Streams, and that ſo near his Caſtles, his Majeſty ſent Sir <hi>Axel Wrip</hi> of <hi>Beltberg</hi> Knight, Com<g ref="char:EOLhyphen"/>mander of <hi>Copenhagen</hi> Caſtle, and <hi>Otte: Krag</hi> of <hi>Wollberg,</hi> chief Secretary and Commander of <hi>Bouffling</hi> Caſtle, down to <hi>Hel ſien<g ref="char:EOLhyphen"/>gor</hi> to underſtand from the Admiral or his Aſſigns by what leave they came upon his Streams, with other Circumſtances which they were commanded to enquire, and what they effected with thoſe two Engliſh Captains, which the Admiral had ſent to them aſhore, and alſo the Admirals Anſwer thereunto, with Letter <hi>D</hi> recorded, doth further declare.</p>
+            <p>And after that his Majeſty ſent his final Anſwer and Reſolution to the Engliſh Admiral, as will herewith in <hi>Copia</hi> of Letter <hi>E</hi> be found.</p>
+            <p>Wherewith the Admiral prepared to ſail away: And as ſoon as the <hi>Parliament</hi> of <hi>England</hi> had underſtood that the Engliſh Mer<g ref="char:EOLhyphen"/>chant Ships were not come away with the ſaid Convoy, but did re<g ref="char:EOLhyphen"/>main lying here; they ſuffered by publique Edict, that all the Ships of his Majeſties Subjects which could be found in <hi>England</hi> not on<g ref="char:EOLhyphen"/>ly to be arreſted, but their Ships and Goods, over-powering all the mony therein found, as alſo ſuch monies as the Shippers had in their Lodgings to be taken away, and moreover all ſuch Ships as they in the Channel could light upon of his Subjects to be brought in and detained, and ill entreated, not affording the Mariners food to ſu<g ref="char:EOLhyphen"/>ſtain life; although the Engliſh had command and power of their Ships and Goods in this Haven, and no hurt at all done them, but were ſecured from their Enemies, as they in their Supplication with thanks acknowledged; and the Engliſh Admiral alſo mentioneth in his writing, that they have by the <hi>Hollander</hi> been here kept in. After which the <hi>Parliament</hi> in <hi>England</hi> ſent their Reſident in
+<pb n="5" facs="tcp:114737:3"/> 
+               <hi>Hamberg, Bradſhaw,</hi> hither with Credentials to his Majeſty, and thoſe Propoſitions which upon the 28 of <hi>Decemb.</hi> were in pub<g ref="char:EOLhyphen"/>lique audience to ſome that were deputed of his Majeſties Councel delivered: His Majeſty had in thoughts to afford him his own per<g ref="char:EOLhyphen"/>ſonal audience, but ſeeing that <hi>Henrick Williamſon,</hi> whom his Majeſty had formerly ſent with Credentials to the <hi>Parliament,</hi> might not be admitted to that honor to be heard in <hi>Parliament,</hi> for that he was not an abſolute Embaſſador, but be content to make his Propoſitions before ſome that were of their Councel de<g ref="char:EOLhyphen"/>puted thereunto; which example the <hi>Parliament</hi> cannot in rea<g ref="char:EOLhyphen"/>ſon take ill at our hands that we follow, ſeeing they themſelves had ſhewed the way and beginning: The Propoſition that was deliver<g ref="char:EOLhyphen"/>ed is found herewith entered with letter <hi>E.</hi>
+            </p>
+            <p>And that it might be known what power he had to give his Ma<g ref="char:EOLhyphen"/>jeſty ſatisfaction for the hurt done his Majeſties Subjects, and what ſecurity againſt ſuch wrong for time to come was to be expected, there was ſent to him<g ref="char:punc">▪</g> 
+               <hi>Ote Krag</hi> his Majeſties Chief Secretary, and <hi>Henrick Williamſon;</hi> as their Memorial, and his Anſwer there<g ref="char:EOLhyphen"/>unto following, with letter Gentered, doth further declare; where<g ref="char:EOLhyphen"/>upon his Majeſty then finally reſolved to give him anſwer as fol<g ref="char:EOLhyphen"/>loweth, letter <hi>H.</hi>
+            </p>
+            <p n="1">1. Of that which in brief hath been related is to be ſeen: Firſt, As concerning the Engliſh, That the <hi>Parliament</hi> hath given the Engliſh Shippers order to ſeek protection in his Majeſties Ha<g ref="char:EOLhyphen"/>ven.</p>
+            <p n="2">2. That the Maſters have therefore petitioned; whereupon they have actually received all the protection from their Enemies that could be deſired, ſo that they have given thanks there<g ref="char:EOLhyphen"/>fore.</p>
+            <p n="3">3. After that, a Fleet is ſent hither into our Streams without any foregoing Intimation given us, or any leave granted, or any Letter ſent from the <hi>Parliament</hi> to his Majeſty; the like was never heard before of thoſe that would be counted friends.</p>
+            <p n="4">4. The <hi>Parliament</hi> have firſt, in <hi>October,</hi> by a publique Edict, ſuffered all his Majeſties Subjects Ships, which could be found in <hi>England,</hi> to be arreſted, and alſo ſuffered all his Subjects to be taken hold on in the Channel, though they came from neutral pla<g ref="char:EOLhyphen"/>ces, and carryed them to <hi>London,</hi> their Loading, and what mony
+<pb n="6" facs="tcp:114737:4"/> they had took away, and allowed them not ſuſtenance for their liver.</p>
+            <p n="5">5. In <hi>December</hi> did the <hi>Parliament</hi> ſend their Reſident <hi>Brad<g ref="char:EOLhyphen"/>ſhaw</hi> hither, which not only had no Order to thank for that Protec<g ref="char:EOLhyphen"/>tion the Engliſh had here, nor to excuſe the former Fleets unexpect<g ref="char:EOLhyphen"/>ed approach into our Streams, nor to deſire leave that ſuch a Con<g ref="char:EOLhyphen"/>voy might come hither again to fetch the Merchants Ships away that lay in the Haven, nor any proffer of reſtitution of his Maje<g ref="char:EOLhyphen"/>ſties Subjects Ships nor Goods, much leſs any ſecurity that the like ſhould not happen hereafter; But only to make known, and deſire, that the Engliſh Ships in the Haven lying, might under Kingly hand and ſeal without damage be delivered to an Engliſh Admiral, at what time and in what manner he ſhould deſire them: And there<g ref="char:EOLhyphen"/>in will the Engliſh have the preheminence to chuſe the time, when they pleaſed, to bring a Fleet into theſe Streams, and how ſtrong they ſhould be, and above all to have the freedom to declare to his Majeſty the manner how they will have their Ships delivered; which could as little ſuit it ſelf to promiſe, as it did ill become it ſelf for them to deſire.</p>
+            <p>On the contrary, beſides that weariſom Embaſſage, which his Majeſty, with all proffers of friendſhip, to no purpoſe, was at charge with to <hi>England,</hi> he did a long time alſo afford the Engliſh Shippers here in the Haven all the protection they deſired, ſuffer<g ref="char:EOLhyphen"/>ing themſelves to have the power and ordering of their ſhips and goods, permitting them alſo to ſell a great part therefore, and im<g ref="char:EOLhyphen"/>ploy to their own uſe; alſo did by the Caſtle of <hi>Crownborg</hi> pro<g ref="char:EOLhyphen"/>tect them from thoſe that would have taken them; nor ever ſuffe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed any Engliſh, either in <hi>Denmark</hi> or <hi>Norway,</hi> to be arreſted, or ill-entreated, notwithſtanding all thoſe ſolicitations preferred a<g ref="char:EOLhyphen"/>gainſt them; but always, all friendſhip continued towards them, not ſuffering himſelf by any means to be perſwaded to the contra<g ref="char:EOLhyphen"/>ry, neither did regard the charge his Majeſty had been at to fit and prepare certain ſhips of War, ſeeing it was not great, though it was expended upon ſo many, as in ſuch haſte could be provided while the Engliſh ſhips were here; nor his Majeſties own honor and reſpect, which in that buſineſs was not a little in danger.</p>
+            <p>Of that which is written, may eaſily be judged, of all that are not parties in the matter, what a difference there is between what
+<pb n="7" facs="tcp:114737:4"/> hath been done to his Majeſties Subjects in <hi>England,</hi> and what hath been done to the Engliſh in this Kingdom; and ſeeing that the <hi>Parliaments</hi> Reſident <hi>Bradſhaw,</hi> before he came hither, had no Command to ſpeak of any Reparation for what Damage his Maje<g ref="char:EOLhyphen"/>ſties Subjects had ſuffered, much leſs to give any ſecurity, that ſuch for the time to come ſhould not happen, and alſo not know<g ref="char:EOLhyphen"/>ing how ſoon this begun miſunderſtanding could be taken up; and for that ſome part of the Commodities in the Engliſh ſhips were not fitting to be left longer aboard, except they ſhould be ſuffered utterly to periſh: therefore it was thought fit to cauſe a right In<g ref="char:EOLhyphen"/>ventory to be taken, and the Goods regiſtred, and unloaden, and ſo layd aſide, and kept till further Order and Reſolution; which ſeeing it is a caſe of indifferent weight, or concernment, and it may be is not rightly underſtood, how all things have been carryed; therefore alſo it is thought neceſſary, for mens knowledg and in<g ref="char:EOLhyphen"/>formation, that it ſhould be ſo contrived and publiſhed.</p>
+            <div type="part">
+               <head>A Copy of the Engliſh Shippers Supplication to his Majeſty of <hi>Denmark</hi> and <hi>Norway,</hi> Tranſlated out of <hi>Engl.</hi>
+               </head>
+               <opener>
+                  <salute>High and Mighty King, May it pleaſe your Kingly Majeſty ſeriouſly to conſider what is here under-written.</salute>
+               </opener>
+               <p>WHereas we Engliſh Shippers, whoſe names are here under<g ref="char:EOLhyphen"/>written, have our Ships lying at anchor upon your Maje<g ref="char:EOLhyphen"/>ſties Streams and Haven, before your Kingly Seat and City of <hi>Copenhaven,</hi> being richly laden with Merchants Goods, belonging to our Nation, and are come for protection and ſecurity hither, by a ſpecial Order from our Honorable High Councel of State at <hi>White-Hall</hi> in <hi>London,</hi> dated the 17. of <hi>June.</hi> Having under<g ref="char:EOLhyphen"/>ſtood, not only peril and danger in the Sea, but alſo upon the Road before <hi>Helſingor,</hi> we therefore in all humility beſeech your Kingly Majeſty, that according to the Law of Nations we may have pro<g ref="char:EOLhyphen"/>tection upon your Majeſties Streams: and if occaſion happen that any Enemy ſhould be ſo inſolent to fall upon us, hurt or violate us, That your Majeſty then will graciouſly take us into protection; and in the mean while, for better ſecurity, give us leave to hale our
+<pb n="8" facs="tcp:114737:5"/> Ships within your Majeſties Bom and Blockhouſe: for which your Majeſties favor we will always be ready in all humility, not only our ſelves in perſon to acknowledg your Benefaction, but further to refer it to the States of our Natives Country.</p>
+               <closer>
+                  <signed>
+                     <hi>And we will always pray for your Kingly Majeſties long, bleſſed and peaceable Government.</hi>
+                     <list>
+                        <item>The Ship <hi>Elizabeth</hi> and <hi>Mary, Anthony Wolward</hi> Mr.</item>
+                        <item>The Ship <hi>Richard, Henry Sheir</hi> Mr.</item>
+                        <item>The Ship <hi>Mary Bonaventure, Richard Bromwell</hi> Mr.</item>
+                        <item>The <hi>Margaret</hi> and <hi>Sarah, Iohn Wither</hi> Mr.</item>
+                        <item>The <hi>James, Andrew Raikes</hi> Mr.</item>
+                        <item>The <hi>Amity, George Acklam</hi> Mr.</item>
+                        <item>The <hi>Imployment, John Tuly</hi> Mr.</item>
+                        <item>The <hi>Ann</hi> and <hi>David, Charls Boomer</hi> Mr.</item>
+                        <item>The <hi>Adventure, Robert Michelſon</hi> Mr.</item>
+                        <item>The <hi>Fellowſhip, William Brunton</hi> Mr.</item>
+                        <item>The <hi>Satisfaction, Matthew Southwell</hi> Mr.</item>
+                        <item>The <hi>Edward</hi> and <hi>John, Solomon Clark</hi> Mr.</item>
+                        <item>The <hi>Pleniſh, Philip Noyſe</hi> Mr.</item>
+                        <item>The <hi>James, Samuel Ramond</hi> Mr.</item>
+                        <item>The Ship <hi>Mary Ann, William Bexby</hi> Mr.</item>
+                        <item>The <hi>Charity, William Iames</hi> Mr.</item>
+                        <item>The <hi>Adventure, William Harding</hi> Mr.</item>
+                        <item>The <hi>Friendſhip, William Danby</hi> Mr.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>To the High and Mighty King of Denmark and Norway, the VENDERS and GOTTERS King; The Engliſh Shippers, being now in <hi>Copenhaven,</hi> their humble Petition, Leter <hi>B.</hi>
+               </head>
+               <opener>Humbly Sheweth,</opener>
+               <p>THat we, according to an Order from the Republique of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> which we have humbly obeyed, were commanded to caſt our ſelves, with our Ships and Goods, under your Kingly
+<pb n="9" facs="tcp:114737:5"/> Majeſties gracious protection, and we are hitherto protected: wherefore we are obliged to give your Kingly Majeſty all hearty thanks, humbly beſeeching your Majeſty of your gracious good<g ref="char:EOLhyphen"/>neſs to ſuffer us to repair to our Convoy, which now lieth below <hi>Helſingor,</hi> whoſe errand and meſſage hither is nothing but to con<g ref="char:EOLhyphen"/>duct us home from hence to our Land again; This is all that is com<g ref="char:EOLhyphen"/>manded us from him who hath the command of that ſame Fleet, to give your Majeſty to underſtand, and to pray and deſire from your Majeſty this liberty: if it be admitted us, we will always pray for your Kingly Majeſty.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Anthony Wolward</item>
+                        <item>John Tuly</item>
+                        <item>Andrew Raikes</item>
+                        <item>Robert Dren</item>
+                        <item>Thomas Robinſon</item>
+                        <item>Solomon Clark</item>
+                        <item>Samuel Ramond</item>
+                        <item>William James</item>
+                        <item>William Harding</item>
+                        <item>Matthew Southwell</item>
+                        <item>William Bigby.</item>
+                        <item>John Withers</item>
+                        <item>Henry Shier</item>
+                        <item>George Acklim.</item>
+                        <item>William Danby</item>
+                        <item>William Brunton</item>
+                        <item>Philip Noyſe</item>
+                        <item>Richard Bromwell</item>
+                        <item>Robert Michelſon</item>
+                        <item>Charls Boomer</item>
+                        <item>Edward Nickson</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>A Copy of the Letter from the Admiral of the Engliſh Fleet to his Majeſty, Tranſlated out of</hi> Engliſh <hi>into</hi> Daniſh, <hi>Letter</hi> A.</head>
+               <opener>
+                  <salute>May it pleaſe Your Majeſty,</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> Have received Order from the Councel of State of the Re<g ref="char:EOLhyphen"/>publique in <hi>England,</hi> to ſail into the Sound with this Squa<g ref="char:EOLhyphen"/>drant of Ships, containing 18 in number, to Convoy all ſuch Engliſh Ships and Barques as have been now a long time kept in by the <hi>Hollander:</hi> My humble requeſt is, That ſeeing your Ma<g ref="char:EOLhyphen"/>jeſty hath been pleaſed graciouſly to protect them unto this preſent in ſafety, that I might know your Majesties gracious Will, whether I may be permitted to come up with our Fleet to fetch them, or that it will pleaſe your Majeſty to give Order they may be ſafe-guarded down hither to our Fleet, where we lie
+<pb n="10" facs="tcp:114737:6"/> ready to receive them: That is all that is deſired of him, who deſireth leave to ſubſcribe himſelf,</p>
+               <closer>
+                  <signed>Your Majeſties moſt humble Servant, <hi>ANDREVV BALL.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>A Copy of Sir <hi>Axel Urups</hi> and the right worſhipful <hi>Otte Krags</hi> Letter to the Admiral of the Engliſh Fleet, delivered to thoſe two Captains which the ſaid Admiral had ſent aſhore to them, together with the Admirals Anſwer thereunto, Letter <hi>D.</hi>
+                     </head>
+                     <p>HIs Kingly Majeſty, our gracious Lord and King, hath given us charge to intimate to his Excellency, the Admiral of the <hi>Parliaments</hi> Fleet belonging to the Republique of <hi>England,</hi> now lying here, That it ſeemeth very ſtrange to his Majeſty, that the <hi>Parliament</hi> of <hi>England</hi> ſhould ſend ſuch a mighty Fleet of ſhips into the midſt of his Majeſties Land, and not at all given his Maje<g ref="char:EOLhyphen"/>ſty warning aforehand, nor deſired permiſſion to do it; the like was never before this preſent attempted of any that had not reſol<g ref="char:EOLhyphen"/>ved to begin hoſtility; ſeeing thoſe that are in Treaty or Aliance with his Majeſty, may not do it, except they do advertiſe thereof three weeks before any ſuch Fleet ſhould be ſuffered to come into the Streams: it was indeed reported to his Majeſty that ſuch a Fleet ſhould come, but all the while neither his Majeſty himſelf, nor his Embaſſador in <hi>England,</hi> were made privy to it, nor had any warning thereof: his Majeſty could not conceive that the <hi>Parliament</hi> would reſolve upon any ſuch thing, as never was done by any of the Friends or Neighbors of this Crown.</p>
+                     <p>His Majeſty profers it to themſelves, to conſider how it would be taken in <hi>England,</hi> if ſuch a mighty Fleet came into the <hi>Thames,</hi> without any foregoing warning or permiſſion to come there: Alſo his Majeſty had done the Engliſh Republique that honor to ſend an honorable Embaſſage thither, and did proffer a Treaty, and all good friendſhip, but hath not hitherto perceived that the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> have revealed themſelves in any thing that might ſatisfie; yet did he not at all expect, that in the place of a like honorable Em<g ref="char:EOLhyphen"/>baſſage
+<pb n="11" facs="tcp:114737:6"/> from the Republique of <hi>England,</hi> or ſome full ſatisfacto<g ref="char:EOLhyphen"/>ry Reſolution otherways, his Majeſty ſhould be conſtrained to be<g ref="char:EOLhyphen"/>hold, and that before his Kingly Houſe and Caſtle, ſuch a mighty Fleet of Ships, which men were uncertain what might be expect<g ref="char:EOLhyphen"/>ed from them: And what charge it would put his Majeſty upon, as all Potentates in ſuch caſes uſually do, to put by all hoſtility from his Streams, ſo much as in ſuch haſte could be made towards pre<g ref="char:EOLhyphen"/>paring his Fleet, they may judg: Wherefore his Majeſty deſireth they will not attempt to begin any act of hoſtility upon his Streams, but rather retire themſelves further off, and not be found ſo neer his Majeſties Caſtles with ſo great a power, which can do no other but give cauſe of ſuſpicion and miſtruſt: Now according to his Majeſties Command, we deſire the Admirals Anſwer in Writing hereunto, and do as to our perſons remain,</p>
+                     <closer>
+                        <signed>Your Excellencies willing Servants,
+<list>
+                              <item>Axel <g ref="char:V">Ʋ</g>rup, </item>
+                              <item>Otte Krag.</item>
+                           </list>
+                        </signed> 
+                        <dateline>From <hi>Helſingor</hi>
+                           <date>the 21 of <hi>Septemb.</hi> 1652.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>With a deſire that it might be delivered to the Admiral, and we might as ſoon as poſſible receive from him a ſatisfactory Anſwer, wherewith we will preſently repair to his Majeſty, and alſo ſoli<g ref="char:EOLhyphen"/>cite for a further Reſolution for him toward his expedition, where<g ref="char:EOLhyphen"/>withall the ſaid Captains went aboard late toward evening, and afterward in the morning, being the 24 of <hi>Septemb.</hi> about ſix of the clock, did come again on ſhore with the ſaid Admirals Anſwer to the laſt writing, delivered him dated about nine a clock at night, wherein he referreth himſelf to his former Letter, aſſuring that his coming thither with that Fleet was to no other intent but only to Convoy thoſe Engliſh Ships that lie in <hi>Copenhaven,</hi> ſaying alſo that his Fleet was not of ſuch force as we declared, deſiring alſo that he might receive an abſolute Anſwer, if the Ships might be ſuffered to follow him or not, that he might be gone back again, hoping that he had carryed himſelf here with all civility and reſpect: what more was required in our Letter, he did excuſe himſelf, that he could not anſwer unto, as his foreſaid Letter, ſigned <hi>N.</hi> 2. doth further ſhew: And when they gave us to underſtand, that they were again come to Town, we repaired unto them in the afore<g ref="char:EOLhyphen"/>ſaid
+<pb n="12" facs="tcp:114737:7"/> Borgemaſters houſe, where they delivered us the ſaid Admirals Letter, and therewithall deſired we would viſit the ſaid Admiral aboard his Ship, and excuſed himſelf, for his not coming aſhore to us was becauſe he durſt not adventure himſelf at that time from his Fleet, deſiring earneſtly that we would expedite and further them ſuch an Anſwer, as that they might have the Engliſh Fleet with them, which they were ſent for; and ſaid alſo, that their Fleet was of no ſuch conſideration as it was look'd upon to be, for as much as it conſiſted of but eighteen ſhips only, whereupon were few or no Soldiers: excuſed alſo that the <hi>Parliament</hi> had not given notice of their coming, for that he feared it would be de<g ref="char:EOLhyphen"/>clared and known to the <hi>Hollander,</hi> and then they with force would watch for them, if there had been intelligence given before, eſpecially for that they knew the <hi>Hollander</hi> lay here with a party of Ships, ſo they could not adventure themſelves hither with fewer ſhips: That the <hi>Parliament</hi> had ſent no Embaſſador hither, they deſired it might not be ill taken, for their thoughts abounded in friendſhip towards his Majeſty, and had honorably received his Embaſſadors, and alſo well deported themſelves towards his Sub<g ref="char:EOLhyphen"/>jects; ſo that it was not forborn, for any other reaſon, but for that their former Meſſengers, ſent to <hi>Holland</hi> and <hi>Spain,</hi> were ill<g ref="char:EOLhyphen"/>entreated and ſlain; whereupon the <hi>Parliament</hi> reſolved to ſend no more Embaſſadors abroad till further conſiderations: alſo de<g ref="char:EOLhyphen"/>claring, that the <hi>Hollanders</hi> had in many ways delt ill with them, ſo they had good cauſe to be aware of them, that they might not in proceſs of time mock them: and after we had anſwered them ſuch things as were neceſſary, according to our Inſtructions, and their former deſire of quick expedition again repeated, we took our leaves of them, and went preſently to his Majeſty to <hi>Ibſtrup,</hi> and after to the Privy Councel, and delivered in both places verbal relation of what had paſſed.</p>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:114737:7"/>
+               <head>A Reſolution given to the Commander of the Engliſh Republique Fleet lying upon our Streams: Letter <hi>E.</hi>
+               </head>
+               <p>WHereas we underſtand by a Letter written from the Com<g ref="char:EOLhyphen"/>mander of the Engliſh Eſquadron, delivered us the 23. of <hi>Sept.</hi> late at night, that he was ſent hither by the Councel of State of the Republique of <hi>England,</hi> with 18 Ships of War to convey all the Engliſh Ships that now have layn here a long time, and there<g ref="char:EOLhyphen"/>fore deſireth to know if he might have liberty to come up with his Fleet to fetch them, or that an Order might paſs for their ſafe<g ref="char:EOLhyphen"/>guarding down to his Fleet; whereunto our gracious Reſolution is, That as it was altogether unexpected of us that ſuch a mighty Fleet without warning, much leſs permiſſion, or Letter unto us from their Principals, ſhould come into our Streams in ſight of our Caſtles; ſo have we neither let nor given occaſion that the Engliſh Ships now lying in the Haven ſhould retire hither; but they them<g ref="char:EOLhyphen"/>ſelves by ſupplication to our Stateholder have ſought it, and them<g ref="char:EOLhyphen"/>ſelves hitherto in ſafety preſerved, ſince which a Fleet of the States General Ships are come hither to watch for thoſe and other Ships, deſiring to have taken them, if they had not here had their retreat; and ſeeing they could not complain of any thing further to have happened to them all the while they have been kept here, ſo had we much leſs expected that we upon ſuch a gracious protection ſhould be deſired to do that which might infeſt our Streams, and occaſion to our Highneſs the greateſt deſpect, and in our own Land the greateſt unſafety and danger, we had well expected that the Engliſh and Hollanders Fleets, as long as we gave them no cauſe, ſhould not againſt our Highneſs upon our Streams overſee them<g ref="char:EOLhyphen"/>ſelves; but if ſo many Ships came to be diſputed for between them as now lieth here, it is to be feared we our ſelves ſhould be blamed for giving them cauſe to loſe that reſpect, and to keep our Fleet here upon the Streams would give us cauſe to do that which would be pleaſing to none of our Friends: wherefore to avoyd ſuch miſ<g ref="char:EOLhyphen"/>chief as might follow, we thought it not good thoſe Ships lying here in our Haven ſecured, ſhould be put out to become matter for
+<pb n="14" facs="tcp:114737:8"/> two of our Friends and Republiques Fleets upon our Streams to fight for, but rather willingly afford them ſtill that ſecurity they hitherto have had, hoping that time will ſo change it ſelf, that they without our reſpect and guidance, and to their leſs hazard, may be ſet free.</p>
+               <closer>
+                  <dateline>Given at our Caſtle, <hi>Copenhaven,</hi>
+                     <date>the 25. of <hi>Sep<g ref="char:EOLhyphen"/>temb.</hi> 1653.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The Engliſh Reſidents Propoſition, delivered to thoſe of the Kingdoms Councel, de<g ref="char:EOLhyphen"/>puted to receive the ſame. Letter</hi> F.</head>
+               <opener>
+                  <salute>Well Born, High and Noble Lord,</salute>
+               </opener>
+               <p>VVHereas for ſome time paſt it hath pleaſed the great, migh<g ref="char:EOLhyphen"/>tieſt High-born King of <hi>Denmark</hi> and <hi>Norway,</hi> in his Harbors, to detain ſeveral Merchant Ships of great Value, belong<g ref="char:EOLhyphen"/>ing to the Subjects of the Republique of <hi>England,</hi> and alſo to deny them freedom to follow thoſe Ships of War, which for their Secu<g ref="char:EOLhyphen"/>rity and Convoy without doubt were ſent from <hi>England,</hi> whereby the ſaid Republique, and the Subjects thereof, hitherto no ſmall hurt and damage have ſuſtained: and although the Engliſh Re<g ref="char:EOLhyphen"/>publiques Parliament, by reaſon of ſuch an unexpected Action, eſpecially at the time when his Majeſties Embaſſador was treat<g ref="char:EOLhyphen"/>ing for a nearer <g ref="char:V">Ʋ</g>nion, are thereby highly troubled; yet are they nevertheleſs deſirous to uſe all poſſible means of friendſhip, whereby further Inconveniencies may be prevented, which other<g ref="char:EOLhyphen"/>ways in ſuch a weighty Caſe, that concerns the welfare of both States, might follow; therefore have they of good affection ſent me to his Majeſty, with Command in their behalf, to preſs earneſtly, that the ſaid Ships, which by his Majeſties Command are de<g ref="char:EOLhyphen"/>tained with their ſeveral Goods and Loadings, may with all poſ<g ref="char:EOLhyphen"/>ſible expedition be again ſet free: Wherefore in the name of the ſaid Parliament I deſire your high mighty Kingly Majeſty, that all the Ships belonging to the Engliſh Republique, which now are to be found in this Haven, or upon theſe Streams, and by Kingly Order, or any other Officers Command, are detained or
+<pb n="15" facs="tcp:114737:8"/> delayed, each Ship with his own loading may preſently be ſet free with full power to proceed upon their Voyage towards thoſe places they were at firſt deſigned unto; moreover, that his Majeſty will be pleaſed under your Kingly Hand and Seal to promiſe and grant to the Parliament of the Engliſh Republique by me their Mini<g ref="char:EOLhyphen"/>ſter, that all the aforeſaid Ships, each with his loading, ſhall be ſafe and fully delivered to that Fleet, which ſhall be ſent by the Parliament of <hi>England,</hi> or their Authority, at ſuch time and in ſuch manner as the Commander thereof ſhall deſire of his Maje<g ref="char:EOLhyphen"/>ſty: And whereas there is lately one of the Engliſh Republiques Ships, called the <hi>Antilop,</hi> run aſhore within your Kingly Maje<g ref="char:EOLhyphen"/>ſties Juriſdiction, near <hi>Jutland,</hi> and ſome of the Guns, Ammu<g ref="char:EOLhyphen"/>nition, and other things, converted to the uſe of the Inhabitants of the Town adjoyning, alſo in the ſame Parliaments name I de<g ref="char:EOLhyphen"/>ſire his Kingly Majeſty, that all ſuch Guns, and other Imple<g ref="char:EOLhyphen"/>ments that belongeth to the ſaid Ship, whether they now are in the Inhabitants hands, or in any others Cuſtody, may be deliver<g ref="char:EOLhyphen"/>ed preſently to me, or my Deputy; alſo, that by his Kingly Ma<g ref="char:EOLhyphen"/>jeſties Command all good help and neceſſary aſſiſtance be afforded to ſave and recover ſuch other Guns and Riging, as by probability may be ſaved, ſeeing that the Ship was loſt near the ſhore; to all which I expect his Majeſties juſt Anſwer in writing, that I may the better return back again to my Maſters, the Parliament of the Republique of <hi>England.</hi>
+               </p>
+               <closer>
+                  <signed>Richard Bradſhaw.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="16" facs="tcp:114737:9"/>
+               <head>A ſhort Relation of what on the behalf of his Kingly Majeſty of <hi>Denmark</hi> and <hi>Norway,</hi> was <hi>verbalit</hi> ſpoken to the Engliſh Republiques Parliaments Re<g ref="char:EOLhyphen"/>ſident, the honeſt and worſhipful man <hi>Richard Bradſhaw;</hi> and afterward at his requeſt deli<g ref="char:EOLhyphen"/>vered him in writing by us whoſe names are under-written, and out of <hi>Latin</hi> put into <hi>Engliſh.</hi> Letter <hi>G.</hi>
+               </head>
+               <p>AFter that ſome Engliſh Ships for ſome few Months paſt were returned out of the Eaſt Sea into <hi>Oreſound,</hi> they concluded there to remain, thereby to avoyd that great danger they other<g ref="char:EOLhyphen"/>wiſe might fall into, if they adventured themſelves towards <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> by reaſon of the <hi>Hollands</hi> Fleet, that at that preſent they found lying there, waiting a more ſeaſonable time, that they with more ſafety might ſail hence; at which time his Kingly Majeſty not only afforded them open freedom, but alſo in a large meaſure protected them, for as much as ſome <hi>Holland</hi> Ships would haſtily have fallen upon them, ſome Guns were ſhot off from <hi>Crownborg</hi> Caſtle: nor is there from that time hitherto any token of friend<g ref="char:EOLhyphen"/>ſhip neglected to be ſhewn them: Wherefore it is altogether ad<g ref="char:EOLhyphen"/>mirable to his Majeſty, that the Engliſh Republiques <hi>Parliament</hi> neither by writing, nor Reſident in the leaſt meaſure, have mention<g ref="char:EOLhyphen"/>ed ſuch Kingly favor and affection as is ſhewed to their Subjects; but after all, in the Harveſt following a Fleet of 18 Ships of War is ſent into this Kingdom, to that end, as is formerly declared, that they ſhould for more ſafety convey the ſaid Merchant Ships, among which ſome part are ſo well fitted, that they might well be uſed in the ſtead of Ships of War; and thoſe Ships, not only without any preceding deſires or permiſſion, which yet ought to have been ob<g ref="char:EOLhyphen"/>tained, but alſo without any intimation of their coming, did come to anchor upon his Kingly Majeſties Streams, which verily, of none of his Majeſties Neighbors, or thoſe in Union with him, before this time hath the like been done; for as much as amongſt lordly per<g ref="char:EOLhyphen"/>ſons, to avoyd all miſ-interpretation, it is uſual not to enter into
+<pb n="17" facs="tcp:114737:9"/> any of their open or common wayes, much leſs into ſuch a nar<g ref="char:EOLhyphen"/>row paſſage, with warlike and weaponed power, except they have deſired or obtained leave thereunto: which ſeeing the Engliſh Republikes Parliament have forborn to do, therefore doth His Majeſty with all equity and reaſon expect from their Reſident, for ſuch unlawfull Proceſs, in the behalf of the Par<g ref="char:EOLhyphen"/>liament ſome ſatisfaction. Seeing His Kingly Majeſties Sub<g ref="char:EOLhyphen"/>jects ſhips, as many as they could f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd within the Engliſh Re<g ref="char:EOLhyphen"/>publikes jurisdiction, not onely are detained and forbid to de<g ref="char:EOLhyphen"/>part, but alſo one of them in the open Sea lately by a Parlia<g ref="char:EOLhyphen"/>ments ſhip ſurprized, brought to <hi>London,</hi> and a part of her la<g ref="char:EOLhyphen"/>ding plundered away; therefore doth His Kingly Majeſty de<g ref="char:EOLhyphen"/>ſire to know from the Reſident the cauſe why ſuch arreſts and enemy like proceedings were uſed againſt his Subjects: of this and the former Propoſitions a ſpeedy anſwer is expected.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Otte Krag.</item>
+                        <item> Henry Williamſon.</item>
+                        <item> Roſenwing.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The Engliſh Parliaments Reſidents Anſwer to that Writing which in the name of His Kingly Majeſty of <hi>Denmark</hi> and <hi>Norway</hi> thoſe ho<g ref="char:EOLhyphen"/>norable men <hi>Otte Krag</hi> and <hi>Henry Williamſon Roſen<g ref="char:EOLhyphen"/>wing</hi> ſent him the laſt day of December, <hi>Anno</hi> 1652.</head>
+               <head type="sub">Tranſlated out of Latin into Daniſh.</head>
+               <p>AFter ſerious conſideration of the ſaid Letter, the Engliſh Republikes or the Parliaments Reſident doth obſerve the ſubſtant matter thereof to be couched in three articles.</p>
+               <p>To the firſt doth pertain His Kingly Majeſties gracious good protection which lately was ſhown to ſome Engliſh Merchants ſhips, for which Kingly benevolence His Majeſty expected that ſomthing anſwerable thereunto ought to have been mentioned.</p>
+               <p>To the ſecond, the unexpected approach of ſome ſhips of war, which without foregoing notification or leave granted, were by the Engliſh Republikes Parliament for the convoying
+<pb n="16" facs="tcp:114737:10"/> of the aforeſaid Merchant ſhips appointed &amp; ſent into His Ma<g ref="char:EOLhyphen"/>jeſties Kingdoms, for which ſtrange proceſs (in the Engliſh Parliaments name) of their Reſident ſome ſatisfaction is deſired.</p>
+               <p>To which the Engliſh Parliaments Reſident anſwereth, that in thoſe Propoſitions which in the behalf of the Engliſh Parlia<g ref="char:EOLhyphen"/>ments Republike, he for ſome dayes paſt had as well verb<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lly uttered, as afterwards in writing alſo delivered, and thereupon had deſired His Kingly Majeſties juſt anſwer: Nothing of that which in theſe articles was mentioned was touched, neither in his Plenipotentialls was any liberty given him of ſuch <hi>Poſtula<g ref="char:EOLhyphen"/>ta,</hi> to confer or anſwer: But if the matter of theſe Articles is ſuppoſed to be of ſuch high conſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quence, that it neceſſarily re<g ref="char:EOLhyphen"/>quireth ſome pertinent Anſwer, then if ſo be His Kingly Maje<g ref="char:EOLhyphen"/>ſty, according to uſuall and friendly Correſpondentz, will com<g ref="char:EOLhyphen"/>mand to have it reported to the Engliſh Republikes Parlia<g ref="char:EOLhyphen"/>ment then without all doubt it ſhal be found that they, as con<g ref="char:EOLhyphen"/>cerning the ſaid points will deliver a juſt and requiſite anſwer.</p>
+               <p>To the third and laſt article, concerning which His Majeſty is ſo troubled, for that ſeverall of his Subjects ſhips are detained by the Engliſh Parliament, and alſo that lately one of them in the open Sea was in hoſtile manner brought up to <hi>London,</hi> and ſome part of their lading ſpoliert, and therefore of the Reſi<g ref="char:EOLhyphen"/>dent do deſire to know the cauſe of ſuch Arreſt and hoſtile in<g ref="char:EOLhyphen"/>treating. The Reſident doth anſwer as followeth, that he doth well know that ſome Daniſh Su<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jects ſhips by the Parliaments command in their juriſdiction are detained but hath not under<g ref="char:EOLhyphen"/>ſtood that any Daniſh ſhip in the open ſea by any Parliament ſhip was in ſuch warlike manner dealt with; yet if it ſhould appear that ſuch a thing hath been done, there is no doubt, but if His Kingly Majeſty deſire to know the cauſe thereof from the Parliament of <hi>England,</hi> he will receive a neceſſary, friend<g ref="char:EOLhyphen"/>ly, and ſatisfactory anſwer to his content. But the ſtopping thoſe ſhips in the Harbours is a ſubſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quent act, ſeeing the Eng<g ref="char:EOLhyphen"/>liſh Merchant ſhips were firſt by His Kingly Majeſty here arreſt<g ref="char:EOLhyphen"/>ed, and after forbidden to ſaile away: And although they were by a ſelect Fleet of warlike ſhips ſent for, yet His Kingly Majeſty muſt needs know the cauſe thereof not to have ariſen
+<pb n="17" facs="tcp:114737:10"/> from any Warlike miſtruſt, much leſſe from any unjuſt intention in the Parliament either towards His Maje<g ref="char:EOLhyphen"/>ſty or any of his Subjects, but onely from the deſire the Par<g ref="char:EOLhyphen"/>liament had that they by ſuch meanes might the better further the ſaid ſhips being ſet free and at liberty: Yet that the Parlia<g ref="char:EOLhyphen"/>ments upright and friendly carriage in that manner of proceed<g ref="char:EOLhyphen"/>ing may the better be known as ſoone as it ſhall pleaſe His Majeſty under His Kingly hand and ſeal to promiſe un<g ref="char:EOLhyphen"/>to the Parliament by then Reſident, that the Engliſh ſhips may without moleſtation be free to come away, as in my former writing is more l<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gely expreſt, then if it be deſired, I will in the name of the Parliament, as their Reſident, at the ſame time in the higheſt manner ingage, that all the Daniſh Subjects ſhips that within the Engliſh Republikes juriſdiction are detained, with all their goods and ladings, ſhall preſently be reſtored to their former freedome: provided the Engliſh ſhips be firſt ſet free and at liberty, ſeeing they were firſt detained: That this may more happily be accompliſhed, the Engliſh Parliaments Reſident doth earneſtly deſire, eſpecially ſeeing the time allot<g ref="char:EOLhyphen"/>ted for his ſtay here is almoſt run out, that His Kingly Majeſty will be pleaſed to thoſe the Engliſh Parliaments deſires which he hath received, as ſoon as may be, to give a juſt, full and ſatis<g ref="char:EOLhyphen"/>factory anſwer.</p>
+               <closer>
+                  <dateline>
+                     <date>Given the fifth of January 1653. after the Engliſh Accompt.</date>
+                  </dateline>
+                  <signed>Richard Bradſhaw.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:114737:11"/>
+               <head>The Kings Majeſty of <hi>Denmark</hi> and <hi>Norway</hi> his reſolution delivered the Engliſh Parlia<g ref="char:EOLhyphen"/>ments Reſident, the Worſhipfull <hi>Richard Bradſhaw,</hi> unto that Propoſition he verbally uttered, and in wri<g ref="char:EOLhyphen"/>ting delivered, the 28. <hi>Decemb.</hi> 1652. Letter H.</head>
+               <p>FOraſmuch as in the ſaid Propoſition is firſt ſet downe, that ſome Engliſh Ships of great value were in this Harbour de<g ref="char:EOLhyphen"/>tained, and might not be ſuffered to depart hence with the Eng<g ref="char:EOLhyphen"/>liſh Admiralls Fleet that was ſent hither to convoy them, and that the Parliament by ſuch an unexpected action which hap<g ref="char:EOLhyphen"/>pened at the time of treaty for Union, were much troubled, and therefore to prevent great inconveniences that might thereup<g ref="char:EOLhyphen"/>on ariſe, had ſent him hither to deſire, which he alſo did in the Parliaments name, that all the ſhips belonging to Engliſh men, with their ladings, and which by Kingly decree were ſo de<g ref="char:EOLhyphen"/>tained, may preſently be ſet free, and fully licenſed to ſaile to ſuch place where they are deſigned; and that his Kingly Majeſty will under his hand and ſeal aſſure to him their ſervant, that all the aforeſaid ſhips, with their ladings, ſhall be fully delivered to the Engliſh convoy or Fleet, which the Parliament will ſend and authoriſe there unto, at ſuch time, and in ſuch manner, as the ſaid Admirall ſo ſent ſhall deſire.</p>
+               <p>Secondly, that all the guns, and other things belonging to the ſhip <hi>Antilop,</hi> that was loſt upon the ſhore of <hi>Jytland,</hi> where ſhe was run aſhore, may be delivered, which at preſent are de<g ref="char:EOLhyphen"/>tained or preſerved of any in <hi>Inteland,</hi> to him or his Aſſignes, and alſo by his Majeſties recommendation he may be furthered to take up, and ſave as many more of the ſaid guns, and other materialls belonging to the ſaid ſhip, as may be ſaved.</p>
+               <p>Before an anſwer can be given to the firſt, it is neceſſary to be known, and it cannot be denied, but that the ſhippers of the Engliſh ſhips did in <hi>August</hi> l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt petition, that they might be permitted to come here into the Haven to ſave them from their enemies, and afterwards did preſently give thanks, for that it
+<pb n="21" facs="tcp:114737:11"/> was granted them, both with ſupplication and thanks, giving in their Orignals, were ſhewn the Reſident; and that they by a<g ref="char:EOLhyphen"/>ny Kingly Decree ſhould have been arreſted, or their freedome to rule over their goods here in the Haven taken away, that can never be made appear, foraſmuch as each ſh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pp<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r is yet with his ſhip, and hath power over his goods, ſo that th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y need not re<g ref="char:EOLhyphen"/>quire any reſtitution to their freedome, but that feare onely which they had and have of their enemies which lay upon the ſtreames, hath detained or arreſted th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<g ref="char:punc">▪</g> and nothing elſe, ſince which, there came in <hi>September</hi> before <hi>Crownborow,</hi> an Admi<g ref="char:EOLhyphen"/>rall with a mighty F<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eet, which without any warning given, li<g ref="char:EOLhyphen"/>berty obtained, or letter from the Parliam<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt, did deſire he might fetch the ſaid ſhips without <hi>Cobenhaven,</hi> or that they might be ſecurely conveyed unto him, all which ſeemed juſt as wonderfull to his Majeſty, that while his Amb<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dors lay in <hi>England</hi> and treated, they then without any in imation o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> con<g ref="char:EOLhyphen"/>ſent, would unexpected ſend ſuch a F<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eet hither into his land and ſtreams, even as it did admire the Parliament that their Ad<g ref="char:EOLhyphen"/>miralls deſire was not accompliſhed; but that the Engliſh ſhips, which by the ſhippers own confeſſion in writing came into this Harbour by the Parliaments Order, were not delivered to ſuch an Admirall, as neither had leave to come hither with his Fleet, nor any writing from the Parliament, nor could get the ſaid ſhips to him, except he firſt became M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſter of the <hi>Hollands</hi> Fleet, which lay upon the ſtream, between <hi>Kobenhaven,</hi> and the ſaid Engliſh Fleet; his Majeſty hath as good an excuſe for, as a<g ref="char:EOLhyphen"/>ny Potentate can have, that will not indure ſuch an affront to permit ſtrangers in his land, upon his ſtreams, and cloſe in his very preſence, to wage war and fight, who ſhall be Lord and Maſter in anothers houſe and land; and as his Majeſty never but this time obſerving a Fleet of <hi>Engliſh</hi> and <hi>Hollanders</hi> at one inſtant here upon his ſtreames, was not willing the Engliſh ſhould ſail hence, ſo hath he never ſince forbid them, but to in<g ref="char:EOLhyphen"/>gage himſelf to deliver the ſaid ſhips ſecurely to the Engliſh Fleet, at ſuch a time, and in ſuch a manner as the Engliſh Admi<g ref="char:EOLhyphen"/>rall would preſcribe and deſire, is ſo unreaſonable a demand, that his Majeſty cannot in any manner comprehend: For in the
+<pb n="22" facs="tcp:114737:12"/> firſt place, there is never any permitted, or hath that freedome to come here into the <hi>Sound</hi> with an armed Fleet, no more then to come into the Land with an Army, which by ſpeciall treaty have not gained conſent; and thoſe that by ſuch treaties have gained conſent, may neither come ſtronger then is agreed upon, nor upon the time agreed, without giving warning ſome weeks before hand; and moreover there is not the leaſt excuſe made, for that the Fleet came hither without notice given us, nor any requeſt made that it might come hither againe, ſeeing that the Reſident himſelfe doth acknowledge he hath no inſtru<g ref="char:EOLhyphen"/>ctions ſo to do, ſo that it appeareth, as if the Parliament would take unto themſelves more then all others, and might againſt all right and cuſtome come upon theſe Coaſts, Streames, and Towns when they pleaſed, which his Majeſty can no ways give conſent unto: Moreover his Majeſty hath had no thanks for that protection the Engliſh ſhips have had in this Haven, which doubtleſſe had been in their enemies hands, if they had not here been ſecured: but on the contrary, his Majeſties Subjects Ships in <hi>England,</hi> by an open Edict of Parliament in all their Havens, have been arreſted, and one ſhip by force taken in the Channel, and afterward ſpoiled, which will cauſe other reſolution, un<g ref="char:EOLhyphen"/>leſſe in ſhort time, by due ſatisfaction, and aſſurance for the fu<g ref="char:EOLhyphen"/>ture it be remedied: As touching that ſhip that was loſt neere <hi>Inteland,</hi> his Majeſty doth give Order to his Officers there, to let the Reſident or his Aſſig<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es have all the guns o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> other things that were ſaved, when thoſe that have taken pains to ſaving them are paid what is accuſtomed and fitting to be paid, and al<g ref="char:EOLhyphen"/>ſo doth further Order, that they help and further the ſaving of as many more of th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> guns as can be p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſible ſav<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d. Given at our Kingly Seat <hi>Copenhaven,</hi> the 29. <hi>Jan. An.</hi> 1653. under his Kingly Majeſties Hand and Seal.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:114737:12"/>
+            <head>Poſtſcript to the Reader.</head>
+            <p>IT was intended that this Declaration ſhould not have been publiſhed without ſome Animadverſions, rightly to inform the judgment of ſuch perſons as underſtand not the true ſtate of things betwixt the <hi>States of England</hi> and the <hi>King of Denmark:</hi> But foraſmuch as many have been ſolici<g ref="char:EOLhyphen"/>tous for its ſpeedy publication, that ſo they might underſtand upon what pretended ground he made ſo unjuſt a ſeizure, I could no longer detain it from thy view, not doubting but thou art able to diſcover his fallacies, falſities, and undue inſinuations, ſcattered through all his Declaration.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
